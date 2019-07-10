@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Aviatrix {
+class GinaAviatrix {
     
     func start() -> Bool {
         return true
